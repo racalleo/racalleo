@@ -15,13 +15,27 @@ Complemento mi formación académica desarrollando herramientas propias en Pytho
 ## 🛠 Herramientas y tecnologías
 
 **BIM y coordinación de proyectos**
-Revit · Navisworks · Dynamo · pyRevit · Power BI
+
+![Revit](https://img.shields.io/badge/Revit-0696D7?style=for-the-badge&logoColor=white)
+![Navisworks](https://img.shields.io/badge/Navisworks-005F9E?style=for-the-badge&logoColor=white)
+![Dynamo](https://img.shields.io/badge/Dynamo-39A935?style=for-the-badge&logoColor=white)
+![pyRevit](https://img.shields.io/badge/pyRevit-F15A24?style=for-the-badge&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Geotecnia y análisis estructural**
-PLAXIS · SAP2000 · ETABS
+
+![PLAXIS](https://img.shields.io/badge/PLAXIS-E30613?style=for-the-badge&logoColor=white)
+![SAP2000](https://img.shields.io/badge/SAP2000-0033A0?style=for-the-badge&logoColor=white)
+![ETABS](https://img.shields.io/badge/ETABS-1D428A?style=for-the-badge&logoColor=white)
 
 **Programación y automatización**
-Python · Streamlit · Pandas · NumPy · LaTeX · Git
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚀 Proyectos
 
