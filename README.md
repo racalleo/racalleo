@@ -25,10 +25,23 @@ Python · Streamlit · Pandas · NumPy · LaTeX · Git
 
 ## 🚀 Proyectos
 
+**Geotecnia**
+
 | # | Repositorio | Descripción |
 |---|---|---|
 | 01 | [Capacidad_Portante_NEC2015](https://github.com/racalleo/Capacidad_Portante_NEC2015) | Calculadora web (Streamlit) de capacidad portante de cimentaciones superficiales — Terzaghi, Meyerhof, Hansen y Vesic — con verificación de factores de seguridad según la NEC (2015) y generación de memoria de cálculo en PDF. |
-| 02 | [Lineas_Influencia_Puentes](https://github.com/racalleo/Lineas_Influencia_Puentes) | Aplicación en Streamlit para calcular líneas de influencia (momento, reacciones y cortante) en vigas simplemente apoyadas bajo un tren de cargas puntuales. |
+
+**Estructuras**
+
+| # | Repositorio | Descripción |
+|---|---|---|
+| 01 | [Lineas_Influencia_Puentes](https://github.com/racalleo/Lineas_Influencia_Puentes) | Aplicación en Streamlit para calcular líneas de influencia (momento, reacciones y cortante) en vigas simplemente apoyadas bajo un tren de cargas puntuales. |
+
+**BIM**
+
+| # | Repositorio | Descripción |
+|---|---|---|
+| — | *Próximamente* | Aún sin proyectos publicados en esta línea. |
 
 ## 📫 Contacto
 
