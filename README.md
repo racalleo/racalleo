@@ -30,8 +30,6 @@ Python · Streamlit · Pandas · NumPy · LaTeX · Git
 | 01 | [Capacidad_Portante_NEC2015](https://github.com/racalleo/Capacidad_Portante_NEC2015) | Calculadora web (Streamlit) de capacidad portante de cimentaciones superficiales — Terzaghi, Meyerhof, Hansen y Vesic — con verificación de factores de seguridad según la NEC (2015) y generación de memoria de cálculo en PDF. |
 | 02 | [Lineas_Influencia_Puentes](https://github.com/racalleo/Lineas_Influencia_Puentes) | Aplicación en Streamlit para calcular líneas de influencia (momento, reacciones y cortante) en vigas simplemente apoyadas bajo un tren de cargas puntuales. |
 
-[![Estadísticas de GitHub de racalleo](https://github-readme-stats.vercel.app/api?username=racalleo&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 Contacto
 
 - Correo: [info@cotacero.xyz](mailto:info@cotacero.xyz)
