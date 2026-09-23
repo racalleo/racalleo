@@ -4,7 +4,7 @@ Soy **estudiante de Ingeniería Civil** en la **Pontificia Universidad Católica
 
 Actualmente soy **fundador y consultor** en [**Cotacero Ingeniería**](https://www.instagram.com/cotacero.ingenieria), un emprendimiento de consultoría BIM donde desarrollo flujos de trabajo para modelado, coordinación y automatización de proyectos con Revit, Navisworks y Dynamo.
 
-Complemento mi formación académica desarrollando herramientas propias en Python —como calculadoras técnicas, verificación normativa NEC y generación automática de memorias de cálculo— para agilizar procesos que tradicionalmente se hacen de forma manual en ingeniería civil.
+Complemento mi formación académica desarrollando herramientas propias en Python, como calculadoras técnicas, verificación normativa NEC y generación automática de memorias de cálculo, para agilizar procesos que tradicionalmente se hacen de forma manual en ingeniería civil.
 
 ## 🌱 Actualmente aprendiendo
 
