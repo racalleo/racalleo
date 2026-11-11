@@ -56,7 +56,7 @@ Complemento mi formación académica desarrollando herramientas propias en Pytho
 
 | # | Repositorio | Descripción |
 |---|---|---|
-| 01 | [ZeroBeam para Revit](https://github.com/racalleo/ZeroBeam) | Complemento de pyRevit para Revit 2025 y 2027 que crea las barras de una viga de hormigón como armadura nativa (Rebar) a partir del diseño de ZeroBeam y la compara con la planilla de hierros. |
+| — | *Próximamente* | Aún sin proyectos publicados en esta línea. |
 
 ## 📫 Contacto
 
