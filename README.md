@@ -50,12 +50,13 @@ Complemento mi formación académica desarrollando herramientas propias en Pytho
 | # | Repositorio | Descripción |
 |---|---|---|
 | 01 | [Lineas_Influencia_Puentes](https://github.com/racalleo/Lineas_Influencia_Puentes) | Aplicación en Streamlit para calcular líneas de influencia (momento, reacciones y cortante) en vigas simplemente apoyadas bajo un tren de cargas puntuales. |
+| 02 | [ZeroBeam](https://github.com/racalleo/ZeroBeam) | Programa gratuito para Windows de diseño de vigas de hormigón armado según ACI 318-25: flexión, cortante por capacidad y detallamiento sísmico, con demanda leída de ETABS, planilla de hierros en Excel, memoria de cálculo en PDF, plano DXF y armado con barras nativas en Revit. |
 
 **BIM**
 
 | # | Repositorio | Descripción |
 |---|---|---|
-| — | *Próximamente* | Aún sin proyectos publicados en esta línea. |
+| 01 | [ZeroBeam para Revit](https://github.com/racalleo/ZeroBeam) | Complemento de pyRevit para Revit 2025 y 2027 que crea las barras de una viga de hormigón como armadura nativa (Rebar) a partir del diseño de ZeroBeam y la compara con la planilla de hierros. |
 
 ## 📫 Contacto
 
