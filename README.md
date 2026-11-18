@@ -51,7 +51,7 @@ Complemento mi formación académica desarrollando herramientas propias en Pytho
 |---|---|---|
 | 01 | [Lineas_Influencia_Puentes](https://github.com/racalleo/Lineas_Influencia_Puentes) | Aplicación en Streamlit para calcular líneas de influencia (momento, reacciones y cortante) en vigas simplemente apoyadas bajo un tren de cargas puntuales. |
 | 02 | [ZeroBeam](https://github.com/racalleo/ZeroBeam) | Programa gratuito para Windows de diseño de vigas de hormigón armado según ACI 318-25: flexión, cortante por capacidad y detallamiento sísmico, con demanda leída de ETABS, planilla de hierros en Excel, memoria de cálculo en PDF, plano DXF y armado con barras nativas en Revit. |
-| 03 | [Diseno_Viga_Presforzada](https://github.com/racalleo/diseno-viga-presforzada) | Cuadernos de Jupyter para el diseño a flexión de vigas de hormigón presforzado en puentes simplemente apoyados: cargas del tablero, predimensionamiento, iteraciones de la sección, presfuerzo, cable resultante con curvas límite, torones y memoria de cálculo en LaTeX/PDF. |
+| 03 | [Diseno_Viga_Presforzada](https://github.com/racalleo/Diseno_Viga_Presforzada) | Cuadernos de Jupyter para el diseño a flexión de vigas de hormigón presforzado en puentes simplemente apoyados: cargas del tablero, predimensionamiento, iteraciones de la sección, presfuerzo, cable resultante con curvas límite, torones y memoria de cálculo en LaTeX/PDF. |
 
 **BIM**
 
